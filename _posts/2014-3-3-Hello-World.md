@@ -3,7 +3,7 @@ layout: post
 title: <i>Why</i>
 ---
 
-A couple weeks ago when I was sitting in digital history, I wasn't sold. Not that it's anyone's job to sell me. I just have a clear cut idea of things I like to do. Write fiction. People will read it. Make a kiosk display. People will see it. But for this, I was stuck. Make a historial game, a pirate box, or a projection map. But <i>why</i>?
+A couple weeks ago when I was sitting in digital history, I wasn't sold. Not that it's anyone's job to sell me. I just have a clearcut idea of things I like to do. Write fiction. People will read it. Make a kiosk display. People will see it. But for this, I was stuck. Make a historical game, a pirate box, or a projection map. But <i>why</i>?
   
 This <i>why</i> question is my starting point. In some ways, I could probably find answers to the question <i>why</i>, but I was struggling. Answers weren't going to cut it that particular Saturday morning. Digital projects seemed interesting but I couldn't get past the distance between the projects and me. The only way, I thought to myself, to get past this mental block, was to drop the <i>why</i> for a minute and explore interesting research ideas
 
