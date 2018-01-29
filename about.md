@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Graduate student in public history. My major research project explores patient perspectives from the Eastern Hospital for the Insane through fiction. On this site, you will see my musings with digital history and my examning of people on the fringes of Ottawa. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kirasmith@cmail.carleton.ca](mailto:kirasmith@cmail.carleton.ca)
