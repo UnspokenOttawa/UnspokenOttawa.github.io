@@ -1,7 +1,7 @@
 ---
 
-layout: title
-post: Archive Report (Feb.7) 
+layout: post
+Title: Archive Report (Feb.7) 
 
 ---
 
