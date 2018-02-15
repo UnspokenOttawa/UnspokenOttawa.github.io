@@ -7,7 +7,7 @@ I probably shouldn’t be writing a devlog today, I am in a foul mood. But hey, 
 
 After much messing around, I start the introduction of the Protestant Orphan Home with a conversation. This conversation with the character the player is seeing this part of the experience through – Mrs. Wilson. She is one intense looking avatar.
 
-![Mrs.Wilson]({{ "UnspokenOttawa.github.io/assets/myAvatar.png" | absolute_url }})
+![Mrs.Wilson]({{ "/assets/myAvatar.png" | absolute_url }})
 	
 My initial recreation to creating a conversation with her and then an event to unlock at a specific location, is that the location toggle to set the parameters for unlocking does not always work. For some reason it wasn’t always coming up. I have no idea, it just wasn’t. So I would reload, press buttons to reset it, and work from there. While this is a fairly minor thing, it is a frustrating thing. 
 
