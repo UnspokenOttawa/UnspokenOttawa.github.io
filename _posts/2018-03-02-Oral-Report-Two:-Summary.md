@@ -1,6 +1,6 @@
 ---
 Layout: Post
-Title: Oral Report Two: Summary
+Title: Oral Report Two
 ---
 
 <b>Where I am at: ARIS Quest Update</b>
