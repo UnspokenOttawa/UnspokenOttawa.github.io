@@ -1,0 +1,10 @@
+---
+Layout: Post
+Title: Subverting the Historians’ Craft
+---
+
+I like the idea of subverting normative assumptions about the historians’ craft, and the more I read about digital storytelling, the more I can relate to the practice as a public historian (<i>Emotions, Digital Tools and Public Histories</i>, 679). Particularly, I think about some of the reasons why I am using a fictional narrative to tell patient centered history at the Brockville Asylum. It provides a different set of tools to tell an authentic history but also use the imaginative process to think about the things beyond the historical record – particularly for my MRE, this is the inner lives of the patients. The method also allows me to emphasize the present interest in the past – which I can see digital history doing.
+
+In the same article, <i>Emotions, Digital Tools and Public Histories</i>, the author also talks about the involvement of creative writing in digital storytelling. For my ARIS project, to make an engaging narrative, while many of the prompts may be based in historical research, it is written without narrative constraints – it is in part fictional. It requires much of the same process that is required when I write historical fiction about the Brockville patients – but instead, it is about the women and children whom the Orphan’s Home affected.
+
+Today, I turn back to the writing after being consumed by conference planning. I intend to write out a final draft of all the remaining conversations and interactions in ARIS, and of course, this will not be done digitally, it will be done with q-cards. While I tried twine, and it was an interesting tool, I am still very wedded to the physical process. I feel like I can think more clearly, when I pick up a pen and a blank paper as opposed to trying to sketch out my narrative digitally. I guess in some ways, particularly for this project, I feel more in control of the space – with q-cards I can easily move things around and re-adjust, and it is not that I couldn’t do this with twine, it is just that I prefer the tangible. So perhaps, in subverting the historians’ craft, I also reinforce it, in other ways. 
